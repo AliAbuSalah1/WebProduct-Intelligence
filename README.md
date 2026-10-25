@@ -4,7 +4,7 @@ A multi-source web data pipeline: it **collects** product data from an HTML webs
 
 ## Screenshots
 
-> Captured on **synthetic sample data** served from local mock servers that mimic the structure of the real sources (the sandbox used to build this had no access to the live sites). Run the pipeline yourself for real results, then replace these images.
+> Screenshots taken from a real run of the pipeline against the live sources: ~1,000 books from Books to Scrape (HTML) and the DummyJSON API.
 
 ![Books source overview](docs/screenshots/01_books_overview.png)
 
