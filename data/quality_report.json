@@ -1,0 +1,25 @@
+{
+  "generated_at_utc": "2026-10-25T10:15:45+00:00",
+  "raw_rows": 60,
+  "valid_rows": 60,
+  "rejected_rows": 0,
+  "rejected_pct": 0.0,
+  "by_source": {
+    "books_toscrape": {
+      "rows": 40,
+      "currency": "GBP",
+      "price_min": 12.84,
+      "price_max": 57.25,
+      "missing_category_pct": 0.0,
+      "missing_rating_pct": 0.0
+    },
+    "dummyjson": {
+      "rows": 20,
+      "currency": "USD",
+      "price_min": 1.99,
+      "price_max": 2499.99,
+      "missing_category_pct": 0.0,
+      "missing_rating_pct": 0.0
+    }
+  }
+}
